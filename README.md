@@ -9,6 +9,9 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;有兴趣的小伙伴可以阅读关于KMP 和 AC自动机相关的文档或者博客，相信你会收益颇丰
 
+# jar包下载
+https://github.com/handsome930625/sensitive-word-filter/blob/master/doc/sensitive-word-filter-1.0.0.jar
+
 # 代码示例
     // 1.word.txt 敏感词不完善
     SensitiveWordFilter sensitiveWordFilter = new SensitiveWordFilter();
@@ -26,7 +29,7 @@
         public String format(String word) {
             return "sb" + word;
         }
-    }, "我操死你个b崽子"));
+    }, "待分析的文本"));
     // JDK 1.8 使用自定义敏感词处理器
     System.out.println(sensitiveWordFilter.customDoFilter((word) -> "sb" + word, "待分析的文本"));
     // 自定义敏感词获取器
