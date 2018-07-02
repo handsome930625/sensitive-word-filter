@@ -62,7 +62,7 @@ https://github.com/handsome930625/sensitive-word-filter/blob/master/doc/sensitiv
 4. utils：工具类
 
 # 结束语
-这个项目是工作之余阅读博客时开发，有一些错误或者实现方式上有些误区是难免的，希望大家发现错误时可以联系wangyj@homeking365.com。感谢！
+这个项目是工作之余阅读博客时开发，有一些错误或者实现方式上有些误区是难免的，希望大家发现错误时可以联系774715724@qq.com。不甚感谢！
 
 
 
